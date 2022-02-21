@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/ios_university/WieSJmes.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Documents/twitter_ios-starter/Simulator Screen Recording - iPhone 11 - 2022-02-20 at 22.47.47.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 

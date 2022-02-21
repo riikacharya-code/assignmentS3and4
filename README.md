@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Simulator Screen Recording - iPhone 11 - 2022-02-20 at 22.47.47.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Smaller_recording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 

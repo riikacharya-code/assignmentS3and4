@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/riikacharya-code/assignments3and4/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2011%20-%202022-02-20%20at%2016.26.02.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Smaller_recording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />

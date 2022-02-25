@@ -25,14 +25,6 @@ class TweetCell: UITableViewCell {
         // Configure the view for the selected state
     }
 
-    var favorited: Bool = false
     
-    func setFavorite(_ isFavorited:Bool){
-        favorited = isFavorited
-        
-        if (favorited) {
-            favButton.set
-        }
-    }
     
 }

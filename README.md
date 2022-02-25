@@ -16,11 +16,11 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [ ] User can pull to refresh. (1pt)
+- [x] User can pull to refresh. (1pt)
 - [ ] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Smaller_recording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Simulator Screen Recording - iPhone 11 - 2022-02-24 at 21.45.39.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />

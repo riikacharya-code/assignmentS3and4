@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Simulator Screen Recording - iPhone 13 Pro Max - 2022-02-27 at 16.40.07.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Simulator Screen Recording - iPhone 13 Pro Max - 2022-02-27 at 16.55.20.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
